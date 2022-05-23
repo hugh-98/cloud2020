@@ -5,5 +5,8 @@
 仓库内容：
 
 - 本人跟着尚硅谷视频敲的代码（在本人电脑上可以运行，跟视频中的代码大部分一样，小部分可能会稍有不同）
-- 本人跟着尚硅谷视频做的笔记：[SpringCloud.md](./SpringCloud.md)
+- 本人跟着尚硅谷视频做的笔记：[SpringCloud.md](./SpringCloud.md) 或 [SpringCloud.pdf](./SpringCLoud.pdf) 。二者内容相同
+- nacos-server、seata、sentinel、zipkin等软件安装包。
+
+
 
