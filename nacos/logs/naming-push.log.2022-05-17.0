@@ -1,0 +1,54 @@
+2022-05-17 08:53:43,808 INFO DEFAULT_GROUP@@nacos-payment-provider is changed, add it to push queue.
+
+2022-05-17 08:53:57,968 INFO DEFAULT_GROUP@@nacos-payment-provider is changed, add it to push queue.
+
+2022-05-17 09:59:59,714 INFO DEFAULT_GROUP@@nacos-payment-provider is changed, add it to push queue.
+
+2022-05-17 10:00:01,532 INFO DEFAULT_GROUP@@nacos-payment-provider is changed, add it to push queue.
+
+2022-05-17 10:00:04,114 INFO DEFAULT_GROUP@@nacos-payment-provider is changed, add it to push queue.
+
+2022-05-17 10:05:35,548 INFO DEFAULT_GROUP@@nacos-payment-provider is changed, add it to push queue.
+
+2022-05-17 10:05:47,867 INFO DEFAULT_GROUP@@nacos-payment-provider is changed, add it to push queue.
+
+2022-05-17 10:06:01,581 INFO DEFAULT_GROUP@@nacos-payment-provider is changed, add it to push queue.
+
+2022-05-17 10:06:14,746 INFO DEFAULT_GROUP@@nacos-payment-provider is changed, add it to push queue.
+
+2022-05-17 10:08:14,012 INFO DEFAULT_GROUP@@nacos-order-consumer is changed, add it to push queue.
+
+2022-05-17 14:18:15,230 INFO DEFAULT_GROUP@@nacos-order-consumer is changed, add it to push queue.
+
+2022-05-17 14:49:13,350 INFO DEFAULT_GROUP@@nacos-order-consumer is changed, add it to push queue.
+
+2022-05-17 15:05:50,795 INFO DEFAULT_GROUP@@nacos-payment-provider is changed, add it to push queue.
+
+2022-05-17 15:05:50,796 INFO serviceName: DEFAULT_GROUP@@nacos-payment-provider changed, schedule push for: 10.1.125.73:63261, agent: Nacos-Java-Client:v1.1.1, key: 10.1.125.73,63261,713675538812500
+
+2022-05-17 15:05:50,797 INFO send udp packet: 10.1.125.73,63261,713675538812500
+
+2022-05-17 15:05:50,809 INFO received ack: {"type": "push-ack", "lastRefTime":"713675538812500", "data":""} from: 10.1.125.73:, cost: 63261 ms, unacked: 12, total push: 0
+
+2022-05-17 15:06:05,225 INFO DEFAULT_GROUP@@nacos-payment-provider is changed, add it to push queue.
+
+2022-05-17 15:06:05,225 INFO serviceName: DEFAULT_GROUP@@nacos-payment-provider changed, schedule push for: 10.1.125.73:63261, agent: Nacos-Java-Client:v1.1.1, key: 10.1.125.73,63261,713689968707000
+
+2022-05-17 15:06:05,225 INFO send udp packet: 10.1.125.73,63261,713689968707000
+
+2022-05-17 15:06:05,228 INFO received ack: {"type": "push-ack", "lastRefTime":"713689968707000", "data":""} from: 10.1.125.73:, cost: 63261 ms, unacked: 3, total push: 0
+
+2022-05-17 15:47:46,626 INFO DEFAULT_GROUP@@nacos-order-consumer is changed, add it to push queue.
+
+2022-05-17 15:56:10,784 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service is changed, add it to push queue.
+
+2022-05-17 16:04:21,311 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service is changed, add it to push queue.
+
+2022-05-17 19:20:50,951 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service is changed, add it to push queue.
+
+2022-05-17 19:23:56,635 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service is changed, add it to push queue.
+
+2022-05-17 19:25:28,277 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service is changed, add it to push queue.
+
+2022-05-17 19:27:47,833 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service is changed, add it to push queue.
+

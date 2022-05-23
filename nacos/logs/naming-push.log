@@ -1,0 +1,430 @@
+2022-05-22 14:07:57,275 INFO DEFAULT_GROUP@@serverAddr is changed, add it to push queue.
+
+2022-05-22 14:50:49,871 INFO DEFAULT_GROUP@@seata-account-service is changed, add it to push queue.
+
+2022-05-22 14:51:11,050 INFO DEFAULT_GROUP@@seata-storage-service is changed, add it to push queue.
+
+2022-05-22 14:51:24,669 INFO DEFAULT_GROUP@@seata-order-service is changed, add it to push queue.
+
+2022-05-22 15:09:10,594 INFO DEFAULT_GROUP@@seata-order-service is changed, add it to push queue.
+
+2022-05-22 15:09:18,666 INFO DEFAULT_GROUP@@seata-order-service is changed, add it to push queue.
+
+2022-05-22 15:09:22,411 INFO DEFAULT_GROUP@@seata-order-service is changed, add it to push queue.
+
+2022-05-22 15:09:38,569 INFO DEFAULT_GROUP@@seata-order-service is changed, add it to push queue.
+
+2022-05-22 15:21:54,277 INFO DEFAULT_GROUP@@seata-storage-service is changed, add it to push queue.
+
+2022-05-22 15:21:54,278 INFO serviceName: DEFAULT_GROUP@@seata-storage-service changed, schedule push for: 10.1.125.73:60995, agent: Nacos-Java-Client:v1.1.1, key: 10.1.125.73,60995,1146640190949200
+
+2022-05-22 15:21:54,278 INFO send udp packet: 10.1.125.73,60995,1146640190949200
+
+2022-05-22 15:21:54,287 INFO received ack: {"type": "push-ack", "lastRefTime":"1146640190949200", "data":""} from: 10.1.125.73:, cost: 60995 ms, unacked: 9, total push: 0
+
+2022-05-22 15:22:13,813 INFO DEFAULT_GROUP@@seata-storage-service is changed, add it to push queue.
+
+2022-05-22 15:22:13,813 INFO serviceName: DEFAULT_GROUP@@seata-storage-service changed, schedule push for: 10.1.125.73:60995, agent: Nacos-Java-Client:v1.1.1, key: 10.1.125.73,60995,1146659727067700
+
+2022-05-22 15:22:13,813 INFO send udp packet: 10.1.125.73,60995,1146659727067700
+
+2022-05-22 15:22:13,815 INFO received ack: {"type": "push-ack", "lastRefTime":"1146659727067700", "data":""} from: 10.1.125.73:, cost: 60995 ms, unacked: 2, total push: 0
+
+2022-05-22 15:24:34,094 INFO DEFAULT_GROUP@@seata-account-service is changed, add it to push queue.
+
+2022-05-22 15:24:34,094 INFO serviceName: DEFAULT_GROUP@@seata-account-service changed, schedule push for: 10.1.125.73:60995, agent: Nacos-Java-Client:v1.1.1, key: 10.1.125.73,60995,1146800007954000
+
+2022-05-22 15:24:34,094 INFO send udp packet: 10.1.125.73,60995,1146800007954000
+
+2022-05-22 15:24:34,109 INFO DEFAULT_GROUP@@seata-storage-service is changed, add it to push queue.
+
+2022-05-22 15:24:34,109 INFO serviceName: DEFAULT_GROUP@@seata-storage-service changed, schedule push for: 10.1.125.73:60995, agent: Nacos-Java-Client:v1.1.1, key: 10.1.125.73,60995,1146800023083100
+
+2022-05-22 15:24:34,109 INFO send udp packet: 10.1.125.73,60995,1146800023083100
+
+2022-05-22 15:24:34,141 INFO DEFAULT_GROUP@@seata-order-service is changed, add it to push queue.
+
+2022-05-22 15:24:44,097 INFO retry to push data, key: 10.1.125.73,60995,1146800007954000
+
+2022-05-22 15:24:44,097 INFO send udp packet: 10.1.125.73,60995,1146800007954000
+
+2022-05-22 15:24:44,113 INFO retry to push data, key: 10.1.125.73,60995,1146800023083100
+
+2022-05-22 15:24:44,113 INFO send udp packet: 10.1.125.73,60995,1146800023083100
+
+2022-05-22 15:24:54,102 INFO retry to push data, key: 10.1.125.73,60995,1146800007954000
+
+2022-05-22 15:24:54,102 WARN max re-push times reached, retry times 2, key: 10.1.125.73,60995,1146800007954000
+
+2022-05-22 15:24:54,118 INFO retry to push data, key: 10.1.125.73,60995,1146800023083100
+
+2022-05-22 15:24:54,118 WARN max re-push times reached, retry times 2, key: 10.1.125.73,60995,1146800023083100
+
+2022-05-22 15:26:20,058 INFO DEFAULT_GROUP@@seata-order-service is changed, add it to push queue.
+
+2022-05-22 15:26:26,512 INFO DEFAULT_GROUP@@seata-storage-service is changed, add it to push queue.
+
+2022-05-22 15:26:29,668 INFO DEFAULT_GROUP@@seata-account-service is changed, add it to push queue.
+
+2022-05-22 15:30:06,941 INFO DEFAULT_GROUP@@seata-storage-service is changed, add it to push queue.
+
+2022-05-22 15:30:06,941 INFO serviceName: DEFAULT_GROUP@@seata-storage-service changed, schedule push for: 10.1.125.73:61353, agent: Nacos-Java-Client:v1.1.1, key: 10.1.125.73,61353,1147132854299300
+
+2022-05-22 15:30:06,941 INFO send udp packet: 10.1.125.73,61353,1147132854299300
+
+2022-05-22 15:30:06,945 INFO received ack: {"type": "push-ack", "lastRefTime":"1147132854299300", "data":""} from: 10.1.125.73:, cost: 61353 ms, unacked: 4, total push: 0
+
+2022-05-22 15:30:17,123 INFO DEFAULT_GROUP@@seata-storage-service is changed, add it to push queue.
+
+2022-05-22 15:30:17,124 INFO serviceName: DEFAULT_GROUP@@seata-storage-service changed, schedule push for: 10.1.125.73:61353, agent: Nacos-Java-Client:v1.1.1, key: 10.1.125.73,61353,1147143037194300
+
+2022-05-22 15:30:17,124 INFO send udp packet: 10.1.125.73,61353,1147143037194300
+
+2022-05-22 15:30:17,126 INFO received ack: {"type": "push-ack", "lastRefTime":"1147143037194300", "data":""} from: 10.1.125.73:, cost: 61353 ms, unacked: 2, total push: 0
+
+2022-05-22 15:30:38,698 INFO DEFAULT_GROUP@@seata-account-service is changed, add it to push queue.
+
+2022-05-22 15:30:38,698 INFO serviceName: DEFAULT_GROUP@@seata-account-service changed, schedule push for: 10.1.125.73:61353, agent: Nacos-Java-Client:v1.1.1, key: 10.1.125.73,61353,1147164611369800
+
+2022-05-22 15:30:38,698 INFO send udp packet: 10.1.125.73,61353,1147164611369800
+
+2022-05-22 15:30:38,699 INFO received ack: {"type": "push-ack", "lastRefTime":"1147164611369800", "data":""} from: 10.1.125.73:, cost: 61353 ms, unacked: 1, total push: 0
+
+2022-05-22 15:30:48,322 INFO DEFAULT_GROUP@@seata-account-service is changed, add it to push queue.
+
+2022-05-22 15:30:48,322 INFO serviceName: DEFAULT_GROUP@@seata-account-service changed, schedule push for: 10.1.125.73:61353, agent: Nacos-Java-Client:v1.1.1, key: 10.1.125.73,61353,1147174236289900
+
+2022-05-22 15:30:48,322 INFO send udp packet: 10.1.125.73,61353,1147174236289900
+
+2022-05-22 15:30:48,324 INFO received ack: {"type": "push-ack", "lastRefTime":"1147174236289900", "data":""} from: 10.1.125.73:, cost: 61353 ms, unacked: 2, total push: 0
+
+2022-05-22 15:59:53,593 INFO DEFAULT_GROUP@@seata-account-service is changed, add it to push queue.
+
+2022-05-22 15:59:53,593 INFO serviceName: DEFAULT_GROUP@@seata-account-service changed, schedule push for: 10.1.125.73:61353, agent: Nacos-Java-Client:v1.1.1, key: 10.1.125.73,61353,1148919506498600
+
+2022-05-22 15:59:53,593 INFO send udp packet: 10.1.125.73,61353,1148919506498600
+
+2022-05-22 15:59:53,625 INFO DEFAULT_GROUP@@seata-storage-service is changed, add it to push queue.
+
+2022-05-22 15:59:53,625 INFO serviceName: DEFAULT_GROUP@@seata-storage-service changed, schedule push for: 10.1.125.73:61353, agent: Nacos-Java-Client:v1.1.1, key: 10.1.125.73,61353,1148919538944500
+
+2022-05-22 15:59:53,626 INFO send udp packet: 10.1.125.73,61353,1148919538944500
+
+2022-05-22 15:59:53,657 INFO DEFAULT_GROUP@@seata-order-service is changed, add it to push queue.
+
+2022-05-22 16:00:03,596 INFO retry to push data, key: 10.1.125.73,61353,1148919506498600
+
+2022-05-22 16:00:03,596 INFO send udp packet: 10.1.125.73,61353,1148919506498600
+
+2022-05-22 16:00:03,627 INFO retry to push data, key: 10.1.125.73,61353,1148919538944500
+
+2022-05-22 16:00:03,627 INFO send udp packet: 10.1.125.73,61353,1148919538944500
+
+2022-05-22 16:00:13,602 INFO retry to push data, key: 10.1.125.73,61353,1148919506498600
+
+2022-05-22 16:00:13,602 WARN max re-push times reached, retry times 2, key: 10.1.125.73,61353,1148919506498600
+
+2022-05-22 16:00:13,634 INFO retry to push data, key: 10.1.125.73,61353,1148919538944500
+
+2022-05-22 16:00:13,634 WARN max re-push times reached, retry times 2, key: 10.1.125.73,61353,1148919538944500
+
+2022-05-22 16:00:30,962 INFO DEFAULT_GROUP@@seata-account-service is changed, add it to push queue.
+
+2022-05-22 16:00:40,024 INFO DEFAULT_GROUP@@seata-storage-service is changed, add it to push queue.
+
+2022-05-22 16:00:58,420 INFO DEFAULT_GROUP@@seata-order-service is changed, add it to push queue.
+
+2022-05-22 16:02:29,959 INFO DEFAULT_GROUP@@seata-storage-service is changed, add it to push queue.
+
+2022-05-22 16:02:29,959 INFO serviceName: DEFAULT_GROUP@@seata-storage-service changed, schedule push for: 10.1.125.73:64678, agent: Nacos-Java-Client:v1.1.1, key: 10.1.125.73,64678,1149075872632700
+
+2022-05-22 16:02:29,959 INFO send udp packet: 10.1.125.73,64678,1149075872632700
+
+2022-05-22 16:02:29,963 INFO received ack: {"type": "push-ack", "lastRefTime":"1149075872632700", "data":""} from: 10.1.125.73:, cost: 64678 ms, unacked: 4, total push: 0
+
+2022-05-22 16:02:41,778 INFO DEFAULT_GROUP@@seata-storage-service is changed, add it to push queue.
+
+2022-05-22 16:02:41,778 INFO serviceName: DEFAULT_GROUP@@seata-storage-service changed, schedule push for: 10.1.125.73:64678, agent: Nacos-Java-Client:v1.1.1, key: 10.1.125.73,64678,1149087691762500
+
+2022-05-22 16:02:41,778 INFO send udp packet: 10.1.125.73,64678,1149087691762500
+
+2022-05-22 16:02:41,780 INFO received ack: {"type": "push-ack", "lastRefTime":"1149087691762500", "data":""} from: 10.1.125.73:, cost: 64678 ms, unacked: 2, total push: 0
+
+2022-05-22 16:04:01,460 INFO DEFAULT_GROUP@@seata-account-service is changed, add it to push queue.
+
+2022-05-22 16:04:01,460 INFO serviceName: DEFAULT_GROUP@@seata-account-service changed, schedule push for: 10.1.125.73:64678, agent: Nacos-Java-Client:v1.1.1, key: 10.1.125.73,64678,1149167373996500
+
+2022-05-22 16:04:01,460 INFO send udp packet: 10.1.125.73,64678,1149167373996500
+
+2022-05-22 16:04:01,491 INFO DEFAULT_GROUP@@seata-storage-service is changed, add it to push queue.
+
+2022-05-22 16:04:01,491 INFO serviceName: DEFAULT_GROUP@@seata-storage-service changed, schedule push for: 10.1.125.73:64678, agent: Nacos-Java-Client:v1.1.1, key: 10.1.125.73,64678,1149167404713100
+
+2022-05-22 16:04:01,491 INFO send udp packet: 10.1.125.73,64678,1149167404713100
+
+2022-05-22 16:04:01,523 INFO DEFAULT_GROUP@@seata-order-service is changed, add it to push queue.
+
+2022-05-22 16:04:11,464 INFO retry to push data, key: 10.1.125.73,64678,1149167373996500
+
+2022-05-22 16:04:11,464 INFO send udp packet: 10.1.125.73,64678,1149167373996500
+
+2022-05-22 16:04:11,496 INFO retry to push data, key: 10.1.125.73,64678,1149167404713100
+
+2022-05-22 16:04:11,496 INFO send udp packet: 10.1.125.73,64678,1149167404713100
+
+2022-05-22 16:04:21,466 INFO retry to push data, key: 10.1.125.73,64678,1149167373996500
+
+2022-05-22 16:04:21,466 WARN max re-push times reached, retry times 2, key: 10.1.125.73,64678,1149167373996500
+
+2022-05-22 16:04:21,498 INFO retry to push data, key: 10.1.125.73,64678,1149167404713100
+
+2022-05-22 16:04:21,498 WARN max re-push times reached, retry times 2, key: 10.1.125.73,64678,1149167404713100
+
+2022-05-22 16:04:55,937 INFO DEFAULT_GROUP@@seata-storage-service is changed, add it to push queue.
+
+2022-05-22 16:05:09,827 INFO DEFAULT_GROUP@@seata-account-service is changed, add it to push queue.
+
+2022-05-22 16:05:24,277 INFO DEFAULT_GROUP@@seata-order-service is changed, add it to push queue.
+
+2022-05-22 16:13:10,949 INFO DEFAULT_GROUP@@seata-account-service is changed, add it to push queue.
+
+2022-05-22 16:13:10,979 INFO DEFAULT_GROUP@@seata-storage-service is changed, add it to push queue.
+
+2022-05-22 16:13:10,979 INFO serviceName: DEFAULT_GROUP@@seata-storage-service changed, schedule push for: 10.1.125.73:49635, agent: Nacos-Java-Client:v1.1.1, key: 10.1.125.73,49635,1149716892421200
+
+2022-05-22 16:13:10,979 INFO send udp packet: 10.1.125.73,49635,1149716892421200
+
+2022-05-22 16:13:11,010 INFO DEFAULT_GROUP@@seata-order-service is changed, add it to push queue.
+
+2022-05-22 16:13:20,985 INFO retry to push data, key: 10.1.125.73,49635,1149716892421200
+
+2022-05-22 16:13:20,985 INFO send udp packet: 10.1.125.73,49635,1149716892421200
+
+2022-05-22 16:13:30,996 INFO retry to push data, key: 10.1.125.73,49635,1149716892421200
+
+2022-05-22 16:13:30,996 WARN max re-push times reached, retry times 2, key: 10.1.125.73,49635,1149716892421200
+
+2022-05-22 16:15:40,076 INFO DEFAULT_GROUP@@seata-storage-service is changed, add it to push queue.
+
+2022-05-22 16:15:57,911 INFO DEFAULT_GROUP@@seata-account-service is changed, add it to push queue.
+
+2022-05-22 16:16:25,196 INFO DEFAULT_GROUP@@seata-order-service is changed, add it to push queue.
+
+2022-05-22 16:21:04,879 INFO DEFAULT_GROUP@@seata-account-service is changed, add it to push queue.
+
+2022-05-22 16:21:04,894 INFO DEFAULT_GROUP@@seata-storage-service is changed, add it to push queue.
+
+2022-05-22 16:21:04,894 INFO serviceName: DEFAULT_GROUP@@seata-storage-service changed, schedule push for: 10.1.125.73:52584, agent: Nacos-Java-Client:v1.1.1, key: 10.1.125.73,52584,1150190807818600
+
+2022-05-22 16:21:04,894 INFO send udp packet: 10.1.125.73,52584,1150190807818600
+
+2022-05-22 16:21:04,924 INFO DEFAULT_GROUP@@seata-order-service is changed, add it to push queue.
+
+2022-05-22 16:21:14,908 INFO retry to push data, key: 10.1.125.73,52584,1150190807818600
+
+2022-05-22 16:21:14,908 INFO send udp packet: 10.1.125.73,52584,1150190807818600
+
+2022-05-22 16:21:24,925 INFO retry to push data, key: 10.1.125.73,52584,1150190807818600
+
+2022-05-22 16:21:24,925 WARN max re-push times reached, retry times 2, key: 10.1.125.73,52584,1150190807818600
+
+2022-05-22 16:21:29,853 INFO DEFAULT_GROUP@@seata-storage-service is changed, add it to push queue.
+
+2022-05-22 16:21:56,675 INFO DEFAULT_GROUP@@seata-account-service is changed, add it to push queue.
+
+2022-05-22 16:22:20,541 INFO DEFAULT_GROUP@@seata-order-service is changed, add it to push queue.
+
+2022-05-22 16:25:43,272 INFO DEFAULT_GROUP@@seata-account-service is changed, add it to push queue.
+
+2022-05-22 16:25:43,303 INFO DEFAULT_GROUP@@seata-storage-service is changed, add it to push queue.
+
+2022-05-22 16:25:43,303 INFO serviceName: DEFAULT_GROUP@@seata-storage-service changed, schedule push for: 10.1.125.73:64643, agent: Nacos-Java-Client:v1.1.1, key: 10.1.125.73,64643,1150469216522800
+
+2022-05-22 16:25:43,303 INFO send udp packet: 10.1.125.73,64643,1150469216522800
+
+2022-05-22 16:25:43,335 INFO DEFAULT_GROUP@@seata-order-service is changed, add it to push queue.
+
+2022-05-22 16:25:53,311 INFO retry to push data, key: 10.1.125.73,64643,1150469216522800
+
+2022-05-22 16:25:53,311 INFO send udp packet: 10.1.125.73,64643,1150469216522800
+
+2022-05-22 16:26:03,322 INFO retry to push data, key: 10.1.125.73,64643,1150469216522800
+
+2022-05-22 16:26:03,322 WARN max re-push times reached, retry times 2, key: 10.1.125.73,64643,1150469216522800
+
+2022-05-22 16:28:24,905 INFO DEFAULT_GROUP@@seata-storage-service is changed, add it to push queue.
+
+2022-05-22 16:28:38,713 INFO DEFAULT_GROUP@@seata-account-service is changed, add it to push queue.
+
+2022-05-22 16:28:53,099 INFO DEFAULT_GROUP@@seata-order-service is changed, add it to push queue.
+
+2022-05-22 16:33:07,510 INFO DEFAULT_GROUP@@seata-account-service is changed, add it to push queue.
+
+2022-05-22 16:33:07,541 INFO DEFAULT_GROUP@@seata-storage-service is changed, add it to push queue.
+
+2022-05-22 16:33:07,542 INFO serviceName: DEFAULT_GROUP@@seata-storage-service changed, schedule push for: 10.1.125.73:53454, agent: Nacos-Java-Client:v1.1.1, key: 10.1.125.73,53454,1150913455055800
+
+2022-05-22 16:33:07,542 INFO send udp packet: 10.1.125.73,53454,1150913455055800
+
+2022-05-22 16:33:07,573 INFO DEFAULT_GROUP@@seata-order-service is changed, add it to push queue.
+
+2022-05-22 16:33:17,543 INFO retry to push data, key: 10.1.125.73,53454,1150913455055800
+
+2022-05-22 16:33:17,543 INFO send udp packet: 10.1.125.73,53454,1150913455055800
+
+2022-05-22 16:33:27,551 INFO retry to push data, key: 10.1.125.73,53454,1150913455055800
+
+2022-05-22 16:33:27,551 WARN max re-push times reached, retry times 2, key: 10.1.125.73,53454,1150913455055800
+
+2022-05-22 16:34:39,909 INFO DEFAULT_GROUP@@seata-storage-service is changed, add it to push queue.
+
+2022-05-22 16:34:45,836 INFO DEFAULT_GROUP@@seata-account-service is changed, add it to push queue.
+
+2022-05-22 16:35:11,087 INFO DEFAULT_GROUP@@seata-order-service is changed, add it to push queue.
+
+2022-05-22 16:37:58,280 INFO DEFAULT_GROUP@@seata-account-service is changed, add it to push queue.
+
+2022-05-22 16:37:58,280 INFO serviceName: DEFAULT_GROUP@@seata-account-service changed, schedule push for: 10.1.125.73:57602, agent: Nacos-Java-Client:v1.1.1, key: 10.1.125.73,57602,1151204193789100
+
+2022-05-22 16:37:58,280 INFO send udp packet: 10.1.125.73,57602,1151204193789100
+
+2022-05-22 16:37:58,311 INFO DEFAULT_GROUP@@seata-storage-service is changed, add it to push queue.
+
+2022-05-22 16:37:58,311 INFO serviceName: DEFAULT_GROUP@@seata-storage-service changed, schedule push for: 10.1.125.73:57602, agent: Nacos-Java-Client:v1.1.1, key: 10.1.125.73,57602,1151204224591700
+
+2022-05-22 16:37:58,311 INFO send udp packet: 10.1.125.73,57602,1151204224591700
+
+2022-05-22 16:37:58,342 INFO DEFAULT_GROUP@@seata-order-service is changed, add it to push queue.
+
+2022-05-22 16:38:08,292 INFO retry to push data, key: 10.1.125.73,57602,1151204193789100
+
+2022-05-22 16:38:08,292 INFO send udp packet: 10.1.125.73,57602,1151204193789100
+
+2022-05-22 16:38:08,323 INFO retry to push data, key: 10.1.125.73,57602,1151204224591700
+
+2022-05-22 16:38:08,323 INFO send udp packet: 10.1.125.73,57602,1151204224591700
+
+2022-05-22 16:38:18,305 INFO retry to push data, key: 10.1.125.73,57602,1151204193789100
+
+2022-05-22 16:38:18,305 WARN max re-push times reached, retry times 2, key: 10.1.125.73,57602,1151204193789100
+
+2022-05-22 16:38:18,336 INFO retry to push data, key: 10.1.125.73,57602,1151204224591700
+
+2022-05-22 16:38:18,336 WARN max re-push times reached, retry times 2, key: 10.1.125.73,57602,1151204224591700
+
+2022-05-22 16:39:08,984 INFO DEFAULT_GROUP@@seata-storage-service is changed, add it to push queue.
+
+2022-05-22 16:39:17,251 INFO DEFAULT_GROUP@@seata-account-service is changed, add it to push queue.
+
+2022-05-22 16:40:30,854 INFO DEFAULT_GROUP@@seata-order-service is changed, add it to push queue.
+
+2022-05-22 16:47:18,014 INFO DEFAULT_GROUP@@seata-account-service is changed, add it to push queue.
+
+2022-05-22 16:47:18,014 INFO serviceName: DEFAULT_GROUP@@seata-account-service changed, schedule push for: 10.1.125.73:61464, agent: Nacos-Java-Client:v1.1.1, key: 10.1.125.73,61464,1151763927935700
+
+2022-05-22 16:47:18,014 INFO send udp packet: 10.1.125.73,61464,1151763927935700
+
+2022-05-22 16:47:18,018 INFO received ack: {"type": "push-ack", "lastRefTime":"1151763927935700", "data":""} from: 10.1.125.73:, cost: 61464 ms, unacked: 4, total push: 0
+
+2022-05-22 16:51:43,318 INFO DEFAULT_GROUP@@seata-account-service is changed, add it to push queue.
+
+2022-05-22 16:51:43,318 INFO serviceName: DEFAULT_GROUP@@seata-account-service changed, schedule push for: 10.1.125.73:61464, agent: Nacos-Java-Client:v1.1.1, key: 10.1.125.73,61464,1152029232020800
+
+2022-05-22 16:51:43,318 INFO send udp packet: 10.1.125.73,61464,1152029232020800
+
+2022-05-22 16:51:43,320 INFO received ack: {"type": "push-ack", "lastRefTime":"1152029232020800", "data":""} from: 10.1.125.73:, cost: 61464 ms, unacked: 2, total push: 0
+
+2022-05-22 17:02:15,377 INFO DEFAULT_GROUP@@seata-order-service is changed, add it to push queue.
+
+2022-05-22 17:14:03,012 INFO DEFAULT_GROUP@@seata-order-service is changed, add it to push queue.
+
+2022-05-22 19:37:59,736 INFO DEFAULT_GROUP@@seata-account-service is changed, add it to push queue.
+
+2022-05-22 19:37:59,737 INFO serviceName: DEFAULT_GROUP@@seata-account-service changed, schedule push for: 10.1.125.73:59926, agent: Nacos-Java-Client:v1.1.1, key: 10.1.125.73,59926,1162005650518900
+
+2022-05-22 19:37:59,737 INFO send udp packet: 10.1.125.73,59926,1162005650518900
+
+2022-05-22 19:37:59,752 INFO DEFAULT_GROUP@@seata-storage-service is changed, add it to push queue.
+
+2022-05-22 19:37:59,752 INFO serviceName: DEFAULT_GROUP@@seata-storage-service changed, schedule push for: 10.1.125.73:59926, agent: Nacos-Java-Client:v1.1.1, key: 10.1.125.73,59926,1162005665340600
+
+2022-05-22 19:37:59,752 INFO send udp packet: 10.1.125.73,59926,1162005665340600
+
+2022-05-22 19:37:59,798 INFO DEFAULT_GROUP@@seata-order-service is changed, add it to push queue.
+
+2022-05-22 19:38:09,742 INFO retry to push data, key: 10.1.125.73,59926,1162005650518900
+
+2022-05-22 19:38:09,742 INFO send udp packet: 10.1.125.73,59926,1162005650518900
+
+2022-05-22 19:38:09,758 INFO retry to push data, key: 10.1.125.73,59926,1162005665340600
+
+2022-05-22 19:38:09,758 INFO send udp packet: 10.1.125.73,59926,1162005665340600
+
+2022-05-22 19:38:19,743 INFO retry to push data, key: 10.1.125.73,59926,1162005650518900
+
+2022-05-22 19:38:19,743 WARN max re-push times reached, retry times 2, key: 10.1.125.73,59926,1162005650518900
+
+2022-05-22 19:38:19,774 INFO retry to push data, key: 10.1.125.73,59926,1162005665340600
+
+2022-05-22 19:38:19,774 WARN max re-push times reached, retry times 2, key: 10.1.125.73,59926,1162005665340600
+
+2022-05-22 19:40:10,919 INFO DEFAULT_GROUP@@seata-account-service is changed, add it to push queue.
+
+2022-05-22 19:40:22,259 INFO DEFAULT_GROUP@@seata-storage-service is changed, add it to push queue.
+
+2022-05-22 19:40:32,188 INFO DEFAULT_GROUP@@seata-order-service is changed, add it to push queue.
+
+2022-05-22 19:41:18,025 INFO DEFAULT_GROUP@@seata-account-service is changed, add it to push queue.
+
+2022-05-22 19:41:18,025 INFO serviceName: DEFAULT_GROUP@@seata-account-service changed, schedule push for: 10.1.125.73:64177, agent: Nacos-Java-Client:v1.1.1, key: 10.1.125.73,64177,1162203938458800
+
+2022-05-22 19:41:18,025 INFO send udp packet: 10.1.125.73,64177,1162203938458800
+
+2022-05-22 19:41:18,028 INFO received ack: {"type": "push-ack", "lastRefTime":"1162203938458800", "data":""} from: 10.1.125.73:, cost: 64177 ms, unacked: 3, total push: 0
+
+2022-05-22 19:41:33,187 INFO DEFAULT_GROUP@@seata-account-service is changed, add it to push queue.
+
+2022-05-22 19:41:33,188 INFO serviceName: DEFAULT_GROUP@@seata-account-service changed, schedule push for: 10.1.125.73:64177, agent: Nacos-Java-Client:v1.1.1, key: 10.1.125.73,64177,1162219101072800
+
+2022-05-22 19:41:33,188 INFO send udp packet: 10.1.125.73,64177,1162219101072800
+
+2022-05-22 19:41:33,191 INFO received ack: {"type": "push-ack", "lastRefTime":"1162219101072800", "data":""} from: 10.1.125.73:, cost: 64177 ms, unacked: 2, total push: 0
+
+2022-05-22 19:54:39,744 INFO DEFAULT_GROUP@@seata-account-service is changed, add it to push queue.
+
+2022-05-22 19:54:39,744 INFO serviceName: DEFAULT_GROUP@@seata-account-service changed, schedule push for: 10.1.125.73:64177, agent: Nacos-Java-Client:v1.1.1, key: 10.1.125.73,64177,1163005657705000
+
+2022-05-22 19:54:39,744 INFO send udp packet: 10.1.125.73,64177,1163005657705000
+
+2022-05-22 19:54:39,746 INFO received ack: {"type": "push-ack", "lastRefTime":"1163005657705000", "data":""} from: 10.1.125.73:, cost: 64177 ms, unacked: 2, total push: 0
+
+2022-05-22 19:57:39,863 INFO DEFAULT_GROUP@@seata-account-service is changed, add it to push queue.
+
+2022-05-22 19:57:39,863 INFO serviceName: DEFAULT_GROUP@@seata-account-service changed, schedule push for: 10.1.125.73:64177, agent: Nacos-Java-Client:v1.1.1, key: 10.1.125.73,64177,1163185777094800
+
+2022-05-22 19:57:39,863 INFO send udp packet: 10.1.125.73,64177,1163185777094800
+
+2022-05-22 19:57:39,910 INFO DEFAULT_GROUP@@seata-storage-service is changed, add it to push queue.
+
+2022-05-22 19:57:39,910 INFO serviceName: DEFAULT_GROUP@@seata-storage-service changed, schedule push for: 10.1.125.73:64177, agent: Nacos-Java-Client:v1.1.1, key: 10.1.125.73,64177,1163185824037500
+
+2022-05-22 19:57:39,910 INFO send udp packet: 10.1.125.73,64177,1163185824037500
+
+2022-05-22 19:57:39,942 INFO DEFAULT_GROUP@@seata-order-service is changed, add it to push queue.
+
+2022-05-22 19:57:49,875 INFO retry to push data, key: 10.1.125.73,64177,1163185777094800
+
+2022-05-22 19:57:49,875 INFO send udp packet: 10.1.125.73,64177,1163185777094800
+
+2022-05-22 19:57:49,920 INFO retry to push data, key: 10.1.125.73,64177,1163185824037500
+
+2022-05-22 19:57:49,920 INFO send udp packet: 10.1.125.73,64177,1163185824037500
+
+2022-05-22 19:57:59,892 INFO retry to push data, key: 10.1.125.73,64177,1163185777094800
+
+2022-05-22 19:57:59,892 WARN max re-push times reached, retry times 2, key: 10.1.125.73,64177,1163185777094800
+
+2022-05-22 19:57:59,923 INFO retry to push data, key: 10.1.125.73,64177,1163185824037500
+
+2022-05-22 19:57:59,923 WARN max re-push times reached, retry times 2, key: 10.1.125.73,64177,1163185824037500
+

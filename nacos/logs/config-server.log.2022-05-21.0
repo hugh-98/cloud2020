@@ -1,0 +1,80 @@
+2022-05-21 10:51:36,961 INFO notifyConnectTimeout:200
+
+2022-05-21 10:51:36,968 INFO notifySocketTimeout:8000
+
+2022-05-21 10:51:36,968 INFO isHealthCheck:true
+
+2022-05-21 10:51:36,968 INFO maxHealthCheckFailCount:12
+
+2022-05-21 10:51:36,968 INFO maxContent:10485760
+
+2022-05-21 10:51:36,968 INFO spring.datasource.platform:mysql
+
+2022-05-21 10:51:37,892 INFO ServerListService address-server port:8848
+
+2022-05-21 10:51:37,892 INFO ADDRESS_SERVER_URL:http://jmenv.tbsite.net:8080/nacos/serverlist
+
+2022-05-21 10:51:37,892 WARN [serverlist] updated to [192.168.179.1]
+
+2022-05-21 10:51:37,955 WARN DumpService start
+
+2022-05-21 10:51:37,957 INFO start clear all config-info.
+
+2022-05-21 10:51:37,969 INFO clear all config-info success.
+
+2022-05-21 10:51:37,969 WARN clear all config-info-tenant failed.
+
+2022-05-21 10:51:38,029 INFO [all-dump] 1 / 1
+
+2022-05-21 10:51:38,029 INFO start clear all config-info-beta.
+
+2022-05-21 10:51:38,029 WARN clear all config-info-beta failed.
+
+2022-05-21 10:51:38,029 WARN clear all config-info-beta-tenant failed.
+
+2022-05-21 10:51:38,033 INFO start clear all config-info-tag.
+
+2022-05-21 10:51:38,033 WARN clear all config-info-tag failed.
+
+2022-05-21 10:51:38,033 WARN clear all config-info-tag-tenant failed.
+
+2022-05-21 17:40:06,040 INFO notifyConnectTimeout:200
+
+2022-05-21 17:40:06,043 INFO notifySocketTimeout:8000
+
+2022-05-21 17:40:06,043 INFO isHealthCheck:true
+
+2022-05-21 17:40:06,043 INFO maxHealthCheckFailCount:12
+
+2022-05-21 17:40:06,043 INFO maxContent:10485760
+
+2022-05-21 17:40:06,043 INFO spring.datasource.platform:mysql
+
+2022-05-21 17:40:07,016 INFO ServerListService address-server port:8848
+
+2022-05-21 17:40:07,016 INFO ADDRESS_SERVER_URL:http://jmenv.tbsite.net:8080/nacos/serverlist
+
+2022-05-21 17:40:07,017 WARN [serverlist] updated to [192.168.179.1]
+
+2022-05-21 17:40:07,093 WARN DumpService start
+
+2022-05-21 17:40:07,096 INFO start clear all config-info.
+
+2022-05-21 17:40:07,109 INFO clear all config-info success.
+
+2022-05-21 17:40:07,109 WARN clear all config-info-tenant failed.
+
+2022-05-21 17:40:07,177 INFO [all-dump] 1 / 1
+
+2022-05-21 17:40:07,177 INFO start clear all config-info-beta.
+
+2022-05-21 17:40:07,177 WARN clear all config-info-beta failed.
+
+2022-05-21 17:40:07,177 WARN clear all config-info-beta-tenant failed.
+
+2022-05-21 17:40:07,181 INFO start clear all config-info-tag.
+
+2022-05-21 17:40:07,181 WARN clear all config-info-tag failed.
+
+2022-05-21 17:40:07,181 WARN clear all config-info-tag-tenant failed.
+

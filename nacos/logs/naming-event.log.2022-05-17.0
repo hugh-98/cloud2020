@@ -1,0 +1,138 @@
+2022-05-17 08:53:42,804 INFO DEFAULT_GROUP@@nacos-payment-provider {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.179.1:9003:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-17 08:53:42,806 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-payment-provider, ips: 192.168.179.1:9003_true,
+
+2022-05-17 08:53:42,809 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-payment-provider, ips: 192.168.179.1:9003_true,
+
+2022-05-17 08:53:56,957 INFO DEFAULT_GROUP@@nacos-payment-provider {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.179.1:9004:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-17 08:53:56,957 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-payment-provider, ips: 192.168.179.1:9003_true,192.168.179.1:9004_true,
+
+2022-05-17 08:53:56,959 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-payment-provider, ips: 192.168.179.1:9003_true,192.168.179.1:9004_true,
+
+2022-05-17 09:59:58,705 INFO DEFAULT_GROUP@@nacos-payment-provider {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.179.1:9004:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-17 09:59:58,705 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-payment-provider, ips: 192.168.179.1:9003_true,
+
+2022-05-17 10:00:00,523 INFO DEFAULT_GROUP@@nacos-payment-provider {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.179.1:9003:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-17 10:00:00,523 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-payment-provider, ips: 
+
+2022-05-17 10:00:01,378 INFO DEFAULT_GROUP@@nacos-payment-provider {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.179.1:9004:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-17 10:00:01,378 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-payment-provider, ips: 192.168.179.1:9004_true,
+
+2022-05-17 10:00:01,379 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-payment-provider, ips: 192.168.179.1:9004_true,
+
+2022-05-17 10:00:03,113 INFO DEFAULT_GROUP@@nacos-payment-provider {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.179.1:9003:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-17 10:00:03,113 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-payment-provider, ips: 192.168.179.1:9003_true,192.168.179.1:9004_true,
+
+2022-05-17 10:00:03,113 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-payment-provider, ips: 192.168.179.1:9003_true,192.168.179.1:9004_true,
+
+2022-05-17 10:05:34,544 INFO DEFAULT_GROUP@@nacos-payment-provider {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.179.1:9003:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-17 10:05:34,546 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-payment-provider, ips: 192.168.179.1:9003_true,
+
+2022-05-17 10:05:46,859 INFO DEFAULT_GROUP@@nacos-payment-provider {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.179.1:9003:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-17 10:05:46,859 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-payment-provider, ips: 
+
+2022-05-17 10:06:00,579 INFO DEFAULT_GROUP@@nacos-payment-provider {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.179.1:9003:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-17 10:06:00,579 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-payment-provider, ips: 192.168.179.1:9003_true,
+
+2022-05-17 10:06:00,581 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-payment-provider, ips: 192.168.179.1:9003_true,
+
+2022-05-17 10:06:13,735 INFO DEFAULT_GROUP@@nacos-payment-provider {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.179.1:9004:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-17 10:06:13,736 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-payment-provider, ips: 192.168.179.1:9003_true,192.168.179.1:9004_true,
+
+2022-05-17 10:06:13,736 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-payment-provider, ips: 192.168.179.1:9003_true,192.168.179.1:9004_true,
+
+2022-05-17 10:08:12,999 INFO DEFAULT_GROUP@@nacos-order-consumer {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.179.1:84:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-17 10:08:12,999 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-order-consumer, ips: 192.168.179.1:84_true,
+
+2022-05-17 14:18:14,215 INFO DEFAULT_GROUP@@nacos-order-consumer {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.179.1:84:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-17 14:18:14,216 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-order-consumer, ips: 
+
+2022-05-17 14:49:12,347 INFO DEFAULT_GROUP@@nacos-order-consumer {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.179.1:84:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-17 14:49:12,347 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-order-consumer, ips: 192.168.179.1:84_true,
+
+2022-05-17 14:49:12,348 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-order-consumer, ips: 192.168.179.1:84_true,
+
+2022-05-17 15:05:49,787 INFO DEFAULT_GROUP@@nacos-payment-provider {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.179.1:9003:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-17 15:05:49,787 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-payment-provider, ips: 192.168.179.1:9004_true,
+
+2022-05-17 15:06:04,220 INFO DEFAULT_GROUP@@nacos-payment-provider {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.179.1:9004:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-17 15:06:04,221 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-payment-provider, ips: 
+
+2022-05-17 15:47:45,622 INFO DEFAULT_GROUP@@nacos-order-consumer {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.179.1:84:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-17 15:47:45,622 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-order-consumer, ips: 
+
+2022-05-17 15:56:09,776 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.179.1:8401:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-17 15:56:09,776 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloudalibaba-sentinel-service, ips: 192.168.179.1:8401_true,
+
+2022-05-17 15:56:09,777 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.179.1:8401:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-17 15:56:09,777 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloudalibaba-sentinel-service, ips: 192.168.179.1:8401_true,
+
+2022-05-17 15:56:09,777 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloudalibaba-sentinel-service, ips: 192.168.179.1:8401_true,
+
+2022-05-17 15:56:09,777 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloudalibaba-sentinel-service, ips: 192.168.179.1:8401_true,
+
+2022-05-17 16:04:20,299 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.179.1:8401:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-17 16:04:20,299 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloudalibaba-sentinel-service, ips: 
+
+2022-05-17 16:04:20,300 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.179.1:8401:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-17 16:04:20,300 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloudalibaba-sentinel-service, ips: 
+
+2022-05-17 19:20:49,940 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.179.1:8401:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-17 19:20:49,941 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloudalibaba-sentinel-service, ips: 192.168.179.1:8401_true,
+
+2022-05-17 19:20:49,941 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.179.1:8401:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-17 19:20:49,941 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloudalibaba-sentinel-service, ips: 192.168.179.1:8401_true,
+
+2022-05-17 19:20:49,943 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloudalibaba-sentinel-service, ips: 192.168.179.1:8401_true,
+
+2022-05-17 19:20:49,944 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloudalibaba-sentinel-service, ips: 192.168.179.1:8401_true,
+
+2022-05-17 19:23:55,633 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.179.1:8401:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-17 19:23:55,633 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloudalibaba-sentinel-service, ips: 
+
+2022-05-17 19:23:55,633 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.179.1:8401:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-17 19:23:55,633 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloudalibaba-sentinel-service, ips: 
+
+2022-05-17 19:25:27,262 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.179.1:8401:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-17 19:25:27,262 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloudalibaba-sentinel-service, ips: 192.168.179.1:8401_true,
+
+2022-05-17 19:25:27,262 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.179.1:8401:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-17 19:25:27,262 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloudalibaba-sentinel-service, ips: 192.168.179.1:8401_true,
+
+2022-05-17 19:25:27,264 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloudalibaba-sentinel-service, ips: 192.168.179.1:8401_true,
+
+2022-05-17 19:25:27,264 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloudalibaba-sentinel-service, ips: 192.168.179.1:8401_true,
+
+2022-05-17 19:27:46,830 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.179.1:8401:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-17 19:27:46,830 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloudalibaba-sentinel-service, ips: 
+
+2022-05-17 19:27:46,830 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.179.1:8401:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-17 19:27:46,830 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloudalibaba-sentinel-service, ips: 
+

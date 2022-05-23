@@ -1,0 +1,60 @@
+2022-05-15 15:34:06,224 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.179.1:8401:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-15 15:34:06,227 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloudalibaba-sentinel-service, ips: 192.168.179.1:8401_true,
+
+2022-05-15 15:34:06,230 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloudalibaba-sentinel-service, ips: 192.168.179.1:8401_true,
+
+2022-05-15 15:35:24,527 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.179.1:8401:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-15 15:35:24,527 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloudalibaba-sentinel-service, ips: 
+
+2022-05-15 15:47:00,492 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.179.1:8401:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-15 15:47:00,493 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloudalibaba-sentinel-service, ips: 192.168.179.1:8401_true,
+
+2022-05-15 15:47:00,493 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloudalibaba-sentinel-service, ips: 192.168.179.1:8401_true,
+
+2022-05-15 15:50:00,879 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.179.1:8401:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-15 15:50:00,879 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloudalibaba-sentinel-service, ips: 
+
+2022-05-15 15:50:09,686 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.179.1:8401:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-15 15:50:09,686 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloudalibaba-sentinel-service, ips: 192.168.179.1:8401_true,
+
+2022-05-15 15:50:09,686 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloudalibaba-sentinel-service, ips: 192.168.179.1:8401_true,
+
+2022-05-15 16:02:42,317 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.179.1:8401:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-15 16:02:42,317 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloudalibaba-sentinel-service, ips: 
+
+2022-05-15 16:02:52,572 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.179.1:8401:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-15 16:02:52,572 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloudalibaba-sentinel-service, ips: 192.168.179.1:8401_true,
+
+2022-05-15 16:02:52,572 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloudalibaba-sentinel-service, ips: 192.168.179.1:8401_true,
+
+2022-05-15 16:06:19,678 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.179.1:8401:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-15 16:06:19,678 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloudalibaba-sentinel-service, ips: 
+
+2022-05-15 16:06:22,602 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.179.1:8401:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-15 16:06:22,602 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloudalibaba-sentinel-service, ips: 192.168.179.1:8401_true,
+
+2022-05-15 16:06:22,602 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloudalibaba-sentinel-service, ips: 192.168.179.1:8401_true,
+
+2022-05-15 16:38:28,732 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.179.1:8401:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-15 16:38:28,732 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloudalibaba-sentinel-service, ips: 
+
+2022-05-15 16:38:31,646 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.179.1:8401:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-15 16:38:31,646 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloudalibaba-sentinel-service, ips: 192.168.179.1:8401_true,
+
+2022-05-15 16:38:31,646 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloudalibaba-sentinel-service, ips: 192.168.179.1:8401_true,
+
+2022-05-15 19:39:16,728 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.179.1:8401:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-15 19:39:16,729 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloudalibaba-sentinel-service, ips: 
+

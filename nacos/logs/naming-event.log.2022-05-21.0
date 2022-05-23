@@ -1,0 +1,76 @@
+2022-05-21 17:39:44,122 INFO DEFAULT_GROUP@@seata-order-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.179.1:2001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-21 17:39:44,126 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@seata-order-service, ips: 192.168.179.1:2001_true,
+
+2022-05-21 17:39:44,130 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@seata-order-service, ips: 192.168.179.1:2001_true,
+
+2022-05-21 17:39:44,674 INFO DEFAULT_GROUP@@seata-order-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.179.1:2001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-21 17:39:44,674 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@seata-order-service, ips: 
+
+2022-05-21 17:40:10,643 INFO DEFAULT_GROUP@@serverAddr {SYNC} {IP-NEW} cluster: default, new ips size: 1, content: [10.1.125.73:8091:unknown:default_1.0_true_false_default]
+
+2022-05-21 17:40:10,646 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@serverAddr, ips: 10.1.125.73:8091_true,
+
+2022-05-21 17:46:23,601 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@serverAddr, ips: 10.1.125.73:8091_true,
+
+2022-05-21 17:47:37,434 INFO DEFAULT_GROUP@@seata-order-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.179.1:2001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-21 17:47:37,434 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@seata-order-service, ips: 192.168.179.1:2001_true,
+
+2022-05-21 17:47:37,434 INFO DEFAULT_GROUP@@seata-order-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.179.1:2001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-21 17:47:37,434 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@seata-order-service, ips: 192.168.179.1:2001_true,
+
+2022-05-21 17:47:37,435 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@seata-order-service, ips: 192.168.179.1:2001_true,
+
+2022-05-21 17:47:37,435 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@seata-order-service, ips: 192.168.179.1:2001_true,
+
+2022-05-21 17:48:58,316 INFO DEFAULT_GROUP@@seata-order-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.179.1:2001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-21 17:48:58,316 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@seata-order-service, ips: 
+
+2022-05-21 17:48:58,316 INFO DEFAULT_GROUP@@seata-order-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.179.1:2001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-21 17:48:58,316 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@seata-order-service, ips: 
+
+2022-05-21 17:49:11,298 INFO DEFAULT_GROUP@@seata-order-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.179.1:2001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-21 17:49:11,299 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@seata-order-service, ips: 192.168.179.1:2001_true,
+
+2022-05-21 17:49:11,299 INFO DEFAULT_GROUP@@seata-order-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.179.1:2001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-21 17:49:11,299 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@seata-order-service, ips: 192.168.179.1:2001_true,
+
+2022-05-21 17:49:11,300 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@seata-order-service, ips: 192.168.179.1:2001_true,
+
+2022-05-21 17:49:11,300 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@seata-order-service, ips: 192.168.179.1:2001_true,
+
+2022-05-21 17:50:46,518 INFO DEFAULT_GROUP@@seata-order-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.179.1:2001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-21 17:50:46,518 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@seata-order-service, ips: 
+
+2022-05-21 17:50:46,518 INFO DEFAULT_GROUP@@seata-order-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.179.1:2001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-21 17:50:46,518 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@seata-order-service, ips: 
+
+2022-05-21 18:32:30,805 INFO DEFAULT_GROUP@@seata-storage-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.179.1:2002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-21 18:32:30,805 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@seata-storage-service, ips: 192.168.179.1:2002_true,
+
+2022-05-21 18:32:30,805 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@seata-storage-service, ips: 192.168.179.1:2002_true,
+
+2022-05-21 18:33:04,051 INFO DEFAULT_GROUP@@seata-storage-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.179.1:2002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-21 18:33:04,051 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@seata-storage-service, ips: 
+
+2022-05-21 19:10:40,771 INFO DEFAULT_GROUP@@seata-account-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.179.1:2003:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-21 19:10:40,771 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@seata-account-service, ips: 192.168.179.1:2003_true,
+
+2022-05-21 19:10:40,771 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@seata-account-service, ips: 192.168.179.1:2003_true,
+
+2022-05-21 19:11:11,065 INFO DEFAULT_GROUP@@seata-account-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.179.1:2003:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-21 19:11:11,065 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@seata-account-service, ips: 
+
